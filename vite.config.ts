@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: "ToDoDB", //this only for github pages
+  base: "Template", //this only for github pages
   server: {
     port: 3000, // Change if needed
   },
